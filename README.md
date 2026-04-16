@@ -11,7 +11,7 @@
 - 🎓 BTech CSE student passionate about building impactful tech
 - 💡 Interested in **AI/ML, AR/VR, and Frontend Development**
 - 🚀 Currently improving **DSA & Full Stack Development**
-- 🌱 Learning **Advanced Machine Learning & System Design**
+- 🌱 Learning **Advanced DSA & Developing impactful Projects**
 - 📂 Check out my projects:  
   👉 https://github.com/somu0571
 
